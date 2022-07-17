@@ -1,0 +1,31 @@
+#name
+{
+    color: blue;
+    font-family: monospace;
+    font-size: 18px;
+    opacity: 0.6;
+    text-emphasis: underline;
+}
+.mystyle
+{
+    font-family: Helvetica, sans-serif;
+    color: blue;
+
+}
+h2
+{
+    opacity: 0.8;
+}
+p
+{
+    opacity: 1.8;;
+}
+.rounded-img
+{
+    width: 50%;
+    border-radius: 50%;
+}
+h4
+{
+    opacity: 0.7;
+}
